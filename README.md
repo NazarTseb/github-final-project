@@ -7,4 +7,6 @@
 ## Output
    simple interest = p*t*r
 
+
+
 This project will help you reduce the time you spend on independent calculations by automating this process.
