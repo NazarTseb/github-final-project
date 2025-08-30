@@ -1,3 +1,4 @@
+# This is an interest calculator
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 This project will help you reduce the time you spend on independent calculations by automating this process.
 
